@@ -1,0 +1,15 @@
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe.config
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.exe
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\bin\Debug\QuanLyCafe.pdb
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csprojResolveAssemblyReference.cache
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fLogin.resources
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.Properties.Resources.resources
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.GenerateResource.Cache
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompileInputs.cache
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTableManager.resources
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAccountProfile.resources
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fAdmin.resources
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\Interop.PDFCreatorPilotLib.dll
+D:\Studying\quanlycaphe\project\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.ResolveComReference.cache
